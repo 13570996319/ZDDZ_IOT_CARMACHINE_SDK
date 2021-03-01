@@ -1,0 +1,6 @@
+framework module ZDDZCarMachineFramework {
+  umbrella header "ZDDZCarMachineFramework.h"
+
+  export *
+  module * { export * }
+}
